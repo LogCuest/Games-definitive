@@ -20,3 +20,7 @@ config/icon="uid://ncjhxxfobuji"
 
 window/size/mode=4
 window/stretch/mode="viewport"
+
+[rendering]
+
+renderer/rendering_method="mobile"
