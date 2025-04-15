@@ -11,5 +11,12 @@ config_version=5
 [application]
 
 config/name="Generic plataformer"
+config/version="0.001 ahlpa"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+run/max_fps=60
+config/icon="uid://ncjhxxfobuji"
+
+[display]
+
+window/size/mode=4
+window/stretch/mode="viewport"
